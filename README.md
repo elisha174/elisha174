@@ -1,6 +1,6 @@
-## Hi there 👋 My name is Elisha Medjo. I'm a student at the University of Minnesota.  
 ![ATL Wedding](https://github.com/user-attachments/assets/fb0ec640-f684-43ec-8952-ee6afa993358)
 
+## Hi there 👋 My name is Elisha Medjo. I'm a student at the University of Minnesota.  
 
 <!--
 **elisha174/elisha174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
