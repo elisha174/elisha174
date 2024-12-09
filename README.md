@@ -1,9 +1,10 @@
+## Hi there 👋
 ![ATL Wedding](https://github.com/user-attachments/assets/fb0ec640-f684-43ec-8952-ee6afa993358)
-
-## Hi there 👋 My name is Elisha Medjo. I'm a student at the University of Minnesota.  
-
 <!--
 **elisha174/elisha174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
+Hello!!  My name is Elisha Medjo. I'm a student at the University of Minnesota.  
 
 Here are some ideas to get you started:
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Linkin
 - 😄 Pronouns: she/her (I'm not good with this stuff)
 - ⚡ Fun fact: I've raised over 50 dogs. 
--->
+
